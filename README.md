@@ -1,4 +1,4 @@
-# Internet-For-Peace
+# Technology-For-Peace
 <?php
 $servername = "localhost";
 $username = "root";
